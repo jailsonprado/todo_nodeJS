@@ -7,8 +7,12 @@
   mysql
 
 - to run project:
-  1 - npm install
-  2 - start servidor Mysql
-  3 - Criar BD no Mysql( infos na pasta '/db/conn.js')
-  4 - No terminal executar npm start (localhost:3000)
+
+1 - npm install
+
+2 - start servidor Mysql
+
+3 - Criar BD no Mysql( infos na pasta '/db/conn.js')
+
+4 - No terminal executar npm start (localhost:3000)
 
